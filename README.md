@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything
 - 📫 How to reach me: alexander.ernst@student.ipso.ch
 - ⚡ Fun fact: A newborn blue whale gains about 200 pounds a day during its first year.
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderternst&theme=dark&background=000000)](https://git.io/streak-stats)
+- :globe_with_meridians: My Website: ![Website](https://ernstalex.bplaced.net/)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderternst&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=alexanderternst)
