@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing an apprenticeship at IBZ Aarau as a Software Developer EFZ
-- 🌱 I’m currently learning all sorts of things to do with programming
+- 🔭 I’m currently doing an apprenticeship at IBZ Aarau as a Software Developer (EFZ)
+- 🌱 I’m currently learning all sorts of things to do with programming/IT
 - 💬 Ask me anything
 - 📫 How to reach me: alexander.ernst@student.ipso.ch
 - :globe_with_meridians: My Website: [alexanderernst.ch](https://alexanderernst.ch)
