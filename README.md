@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning all sorts of things to do with programming/IT
 - 💬 Ask me anything
 - 📫 How to reach me: alexander.ernst@student.ipso.ch
-/* - 🌐 My Website: [alexanderernst.ch](https://alexanderernst.ch) */
+<!--- - 🌐 My Website: [alexanderernst.ch](https://alexanderernst.ch) --->
 - 🏢 LinkedIn Account: [Alexander Ernst](https://www.linkedin.com/in/alexanderternst/)
 - ⚡ Fun fact: A newborn blue whale gains about 200 pounds a day during its first year.
 
