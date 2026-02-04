@@ -5,5 +5,3 @@
 - 💬 Ask me anything
 - 📫 How to reach me: alexander.ernst04@gmail.com
 - 🏢 LinkedIn Account: [Alexander Ernst](https://www.linkedin.com/in/alexanderternst/)
-
-![Repository Statisitcs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderternst&theme=blue-green)
